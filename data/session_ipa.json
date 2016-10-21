@@ -1,0 +1,2802 @@
+[
+    {
+        "abv": "4.8", 
+        "createDate": "2015-07-30 19:24:02", 
+        "description": "", 
+        "ibu": "18", 
+        "id": "L4wxFx", 
+        "name": "10-81 IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-08-09 14:44:42", 
+        "description": "The Plato scale is a measurement of the density of liquid. The number tells brewers how big or small a resulting beer will be\u2014the larger the number the bigger the beer. We designed 11.5\u00b0 Plato\u2014a lower number on the beer scale\u2014to give us just enough body to support a heavy heap of hops. The result is an easy-drinking session IPA which satisfies the thirst for hops, but urges you to have another round.", 
+        "ibu": "35", 
+        "id": "zTTWa2", 
+        "name": "11.5\u00b0 PLATO", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-06-16 13:43:14", 
+        "description": "This session IPA is an American Style Pale Ale, Copper in color, mildly malty and packed with citrusy American Cascade hop flavor and aroma.", 
+        "ibu": "61", 
+        "id": "HCUkDv", 
+        "name": "2 Brothers Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-11-12 18:58:35", 
+        "description": "", 
+        "ibu": "35", 
+        "id": "ZDr6DX", 
+        "name": "21N9NE", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.44", 
+        "createDate": "2015-11-30 20:15:19", 
+        "description": "In a bold collaboration with Mother Nature, we grow our own varieties of aroma hops at Rogue Farms in Independence, OR. We also string, stake, train, test, trim, separate, sort, kiln and cool them. Brewmaster John Maier meticulously selected and blended 4 varieties of our aroma hops to create the approachable and aromatic signature of our 4 Hop IPA.", 
+        "ibu": "55", 
+        "id": "xeAkc5", 
+        "name": "4 Hop IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.8", 
+        "createDate": "2015-07-22 17:09:09", 
+        "description": "This spring seasonal is a hoppy ray of sunshine and is fraction of strength of our Hill City IPA.", 
+        "ibu": "20", 
+        "id": "S8S64d", 
+        "name": "4/7 IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-07-18 17:56:05", 
+        "description": "", 
+        "ibu": "50", 
+        "id": "gphR1x", 
+        "name": "6th Anniversary Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2012-11-25 13:32:30", 
+        "description": "A crisp and refreshing spring wunderbeer, 77 Select is made with 7 choice ingredients and Fire Brewed in the pits of Fremont Brewing to achieve its rarefied Session IPA status. With this brew we respect Seattle's old Horlucks & Sicks Brewing Companies, predecessors of Rainier Brewing, and their flagship beers 66 Select and Rainier. \"Alcohol may not solve your provlems, but neither will water or milk.\" -VWP", 
+        "ibu": "", 
+        "id": "2qGII9", 
+        "name": "77 Fremont Select", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2015-09-09 15:37:21", 
+        "description": "A sessionable beer for hopheads and commoners alike.  The lemon citrusy hop profile is noticeable but pleasant, thanks to loads of whirlpool and dry hop additions.", 
+        "ibu": "65", 
+        "id": "WpToHT", 
+        "name": "A Little Hoppy", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-09-04 19:08:21", 
+        "description": "", 
+        "ibu": "60", 
+        "id": "iCdPt7", 
+        "name": "A Sporting Chance", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2016-02-10 21:06:30", 
+        "description": "Walk up to the bar and what do you ask for? A Beer, naturally. It doesn't always matter what it is, or what you want in this case. You want something light? We've got A Beer for you. You want something hop forward? We've got A Beer for you. You just want to camp out on that bar stool and crush something? We've got ABeer for you. We're only marginally apologetic that it's not kettle soured with Mosaic & Amarillo hops. This is better. This is a straight forward, refreshing extra pale ale utilizing the newest varieties of German aroma hops (Hallertau Blanc & Mandarina Bavaria). Call it a session IPA if you need, call it a pale ale if you prefer, hell, it doesn't matter what you call it, what matters is that you stop talking about it and throw ABeer down yer gullet.", 
+        "ibu": "42", 
+        "id": "mU8U8C", 
+        "name": "Abeer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-02-26 18:38:48", 
+        "description": "", 
+        "ibu": "", 
+        "id": "7xU7NH", 
+        "name": "Ace of Simcoe", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "7", 
+        "createDate": "2015-11-04 12:25:21", 
+        "description": "A light bodied Saison with bright hops.  Featuring Citra, Cascade and Nelson Sauvin.  Dry.", 
+        "ibu": "60", 
+        "id": "61UuEc", 
+        "name": "Adversity IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-06-01 18:08:51", 
+        "description": "A modest, but flavorful malt selection is accented by American Citra hops and a new hop from Australia named Summer. This low alcohol IPA is bursting with exotic fruit flavors and aromas.", 
+        "ibu": "49", 
+        "id": "EOaoK6", 
+        "name": "Afternoon Delight", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2012-01-03 02:42:39", 
+        "description": "The beer you've been waiting for. Keeps your taste satisfied while keeping your senses sharp. An all-day IPA naturally brewed with a complex array of malts, grains and hops. Balanced for optimal aromatic and a clean finish. The perfect reward for an honest day's work and the ultimate companion to celebrate life's simple pleasures.", 
+        "ibu": "42", 
+        "id": "UEHHoX", 
+        "name": "All Day IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-08-23 15:34:08", 
+        "description": "That\u2019s why American Outlaw Session IPA is perfect for someone who needs to get things done, but aims to enjoy the taste of a good, flavorful beer at the same time. Our Simcoe-hopped session IPA pours a glistening, pale golden color and boasts a refreshing, citrusy flavor with a clean finish.", 
+        "ibu": "45", 
+        "id": "la4Mp9", 
+        "name": "American Outlaw Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.3", 
+        "createDate": "2016-09-05 01:39:48", 
+        "description": "", 
+        "ibu": "54", 
+        "id": "gvQIhF", 
+        "name": "Aroma Session", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-11-02 00:09:44", 
+        "description": "", 
+        "ibu": "", 
+        "id": "RG3aYl", 
+        "name": "Around The Clock", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-05-21 13:29:21", 
+        "description": "Bursting with hop flavor and aroma. A collaboration with the Indiana Forest Alliance.", 
+        "ibu": "46", 
+        "id": "ELjNUS", 
+        "name": "Back Country Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.1", 
+        "createDate": "2015-07-09 18:46:38", 
+        "description": "A big punch of tropical hop character belies this IPA's sessionability.", 
+        "ibu": "", 
+        "id": "b11lKD", 
+        "name": "Batch #100: Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-29 15:09:48", 
+        "description": "Huge mango, orange peel, and citrus aroma with a firm bitterness backed with a very light malt backbone. Left unfiltered to preserve the bright hop flavor.  Our first batch, delicious and easy drinking!", 
+        "ibu": "", 
+        "id": "wK7UHB", 
+        "name": "Batch One Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.2", 
+        "createDate": "2016-06-26 15:11:40", 
+        "description": "", 
+        "ibu": "", 
+        "id": "WImwOI", 
+        "name": "Birthday Session", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.8", 
+        "createDate": "2015-11-18 18:44:22", 
+        "description": "", 
+        "ibu": "", 
+        "id": "0AQIlK", 
+        "name": "Blip", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-05-27 15:24:43", 
+        "description": "", 
+        "ibu": "", 
+        "id": "qHb9TJ", 
+        "name": "Blue Gnu", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2015-04-28 15:31:15", 
+        "description": "", 
+        "ibu": "42", 
+        "id": "PFJ5GE", 
+        "name": "Blueprint Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2012-01-03 02:42:52", 
+        "description": "Boat Beer is designed to be complex enough to merit drinking a few without being crippled by alcohol. Kolsch yeast and German malts are combined to be crisp and refreshing, while a generous amount of American hops have been added to keep it remarkable. Expect it to dance out of the glass with a whack of grapefruit and open into a crisp, stony tangle of white and yellow fruit with pine and moss notes. An IPA for everyday drinking, drink boat beer when you are thirsty from softball, fishing, or explaining why your team is best.", 
+        "ibu": "35", 
+        "id": "qXOFGt", 
+        "name": "Boat Beer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2014-10-26 12:39:27", 
+        "description": "Burnished gold in color, light to medium in body with an intense hop character that comes exclusively from kettle and dry hopping with Bravo hops.", 
+        "ibu": "45", 
+        "id": "j7QrAX", 
+        "name": "Bravo Four Point", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-07-31 19:51:05", 
+        "description": "Ferment\u00e9e 100% avec la Brettanomyces, cette bi\u00e8re met l\u2019accent sur le c\u00f4t\u00e9 fruit\u00e9 de la fermentation et non le funky de la levure. Elle vous donnera votre dose de houblon, en vous mod\u00e9rant sur l\u2019alcool.", 
+        "ibu": "", 
+        "id": "Mi5xbZ", 
+        "name": "Brett Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-05-26 17:33:02", 
+        "description": "She\u2019s blonde and refreshing! She\u2019s mighty mighty! Brewed with perfect proportions of Northwest hops and malts for a beer that makes an old man wish for younger days. This session ale lets it all hang out with easy drinkability and a light malt finish. \u2026what a winning hand!", 
+        "ibu": "18", 
+        "id": "ceeYQX", 
+        "name": "Brick House Blonde", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2014-12-17 12:57:08", 
+        "description": "Easy drinking, loads of tropical hop flavor and a subtle tart finish.\n\nWe brew this session IPA with two of our favorite hops (think mango, guava and passion fruit) and add red wheat malt to give it a crisp, tart finish.  This is the beer we choose for Sunday Funday.", 
+        "ibu": "75", 
+        "id": "WWB6QK", 
+        "name": "Bronx Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-06-22 01:03:29", 
+        "description": "Brooklyn Scorcher IPA is a surprisingly sessionable IPA. A floral, piney aroma strikes first, followed by a burst of mouthwatering bitterness as the hops begin their attack. Suddenly, a hint of toasty malt and a clean, lively finish burst in to leave you thirsty for more. It\u2019s ludicrously tasty, and at a reasonable 4.5%, it\u2019s a beer you can come back to again and again. Try it with spicy foods, salads, grilled meats, cheddar, feta or just another Scorcher IPA.", 
+        "ibu": "", 
+        "id": "nGYal7", 
+        "name": "Brooklyn Scorcher IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2015-05-08 19:07:20", 
+        "description": "We loaded this session IPA with citrus and fruit forward hops, kept the body strong enough to stand to up to the barrage of hops, and dry hopped the heck out of it to make a session IPA we feel is worth stepping back and taking five.", 
+        "ibu": "", 
+        "id": "WOX5kC", 
+        "name": "Cape May Take Five", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-07-23 18:49:02", 
+        "description": "", 
+        "ibu": "44", 
+        "id": "BzFwsc", 
+        "name": "Castoff Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-08-09 11:59:39", 
+        "description": "This easy drinking IPA packs a hoppy punch without the bitterness. Casual is a light bodied ale featuring citrus and tropical hop flavors thanks to copious additions of five different hops during the dry hop process. this beer\r\nis ideal for any time of year when you want to kick back and sip on a few beers.", 
+        "ibu": "30", 
+        "id": "2vh3MY", 
+        "name": "Casual", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.8", 
+        "createDate": "2015-06-18 16:16:57", 
+        "description": "", 
+        "ibu": "22", 
+        "id": "y6KZsR", 
+        "name": "Cat Fight IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-09-02 20:26:18", 
+        "description": "Single malt and single hop OC Rockford exclusive. Great western pale malt and centennial hops. \"Extra Innings\" mini tour 2015.", 
+        "ibu": "", 
+        "id": "8DEdnd", 
+        "name": "Chicago S.M.A.S.H", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-06-01 16:35:19", 
+        "description": "Aggressively dry hopped with Citra, Nelson Sauvin and Pacific Jade to give this beer plenty of hop aroma without added bitterness.", 
+        "ibu": "36", 
+        "id": "fX5WxB", 
+        "name": "Child Labor", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-06-30 21:22:07", 
+        "description": "", 
+        "ibu": "", 
+        "id": "2E3Wa7", 
+        "name": "Citra", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-06-28 01:08:15", 
+        "description": "The lights dim. Anticipation builds. It dawns on you: Nothing save a measly layer of aluminum stands between your tastebuds and one entire pint of Citra, El Dorado, and Amarillo hop essence. What could possibly be better than this moment? Actually drinking the beer.", 
+        "ibu": "", 
+        "id": "6gm4cj", 
+        "name": "Citra Fest", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2016-07-12 15:23:42", 
+        "description": "A tasty cask conditioned Pale Ale brewed with dill, celery, lemon, apple, and citrusy Cascade hops.", 
+        "ibu": "", 
+        "id": "6WyfOi", 
+        "name": "Citra Saurus", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-05-01 00:28:16", 
+        "description": "Despite his bitterness, lack of power and insuperable aversion to any kind of extravagant labor - he kind of has a charming charisma, and perhaps he is even loveable. Somehow we find him unbelievable irresistible and stimulating because he is one of the few that masters the ability to effortlessly impress with his sharp intelligence and make it look so damn easy.", 
+        "ibu": "", 
+        "id": "uSfJlL", 
+        "name": "Citra Sunshine Slacker", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2015-08-03 22:39:44", 
+        "description": "Light, clean, hoppy, and refreshing. Our sessionable IPA will lure you in with an incredible citrus, floral, piney aroma while the delicate malt profile dances briefly on the palate before moving to a dry, bitter, grapefruit ending. Not too hoppy, not too malty.", 
+        "ibu": "75", 
+        "id": "gkE6aK", 
+        "name": "Colorado Greenback", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.3", 
+        "createDate": "2016-09-21 13:16:09", 
+        "description": "", 
+        "ibu": "", 
+        "id": "EhtWBF", 
+        "name": "Come Together", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.4", 
+        "createDate": "2016-06-21 18:56:34", 
+        "description": "Cosmic Truth Session Ale marries the thirst-quenching taste of a traditional Kolsch with bold, tropical Mosaic hops. Its crisp and refreshing body are brought to life with a punch of fruity flavor and subtle bitterness from the hop for a truly well-rounded experience.", 
+        "ibu": "", 
+        "id": "ugF9xC", 
+        "name": "Cosmic Truth Session Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2015-08-18 15:58:27", 
+        "description": "More Session than IPA, this strawberry-blonde ale balances the bold citrus and herbal flavors of American hops with a hint of light caramel malt for a refreshing finish that won\u2019t leave you with that embarrassing bitter beer face!", 
+        "ibu": "37", 
+        "id": "tir6kP", 
+        "name": "Cottonmouth Killer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-04-20 19:19:33", 
+        "description": "The wildcard in our line-up: Crushable IPA is our sub 4%abv session IPA.  The hops will change occasionally, and we may even ferment it with different yeast sometimes, but the core values will always remain the same.  Light, dry, crushable, yet full flavored and complex.  \r\n\r\nBatch 1- House ale yeast, Citra and El Dorado hops 3.6%\r\n\r\nBatch 2-Brettanomyces Claussenii, Simcoe hops 3.8%\r\n\r\nBatch 3-House ale yeast, Simcoe hops 3.6%\r\n\r\nBatch 4- House ale yeast, El Dorado and Azacca hops 3.6%", 
+        "ibu": "", 
+        "id": "BNZXIW", 
+        "name": "Crushable IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-09-01 21:30:42", 
+        "description": "Session IPA", 
+        "ibu": "", 
+        "id": "Zqys3l", 
+        "name": "Day Drinker", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2015-11-10 03:56:46", 
+        "description": "Cucumber and basil", 
+        "ibu": "", 
+        "id": "spGmC4", 
+        "name": "Day Spa Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.65", 
+        "createDate": "2013-11-16 22:36:55", 
+        "description": "A Fractional IPA. \r\nSometimes you want a beer, then you realize how much crap you need to do before you call it a day. This is it. Nicely dosed with Big, Round Hop Flavors and a Toasty Malt Foundation to satisfy your every need. But it still lets you stay in the game to do what needs to be done. Yup.", 
+        "ibu": "54.2", 
+        "id": "qgR2pv", 
+        "name": "DayTime Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-09-03 17:55:49", 
+        "description": "After a long day of work, its time to Decompress. Have a pint of Decompression Session IPA and let the day melt away. This Session IPA is 4.5 ABV, with a subtle citrus nose. Each sip brings out the citrus and tropical fruit flavors. Cheers!", 
+        "ibu": "", 
+        "id": "5vWVLf", 
+        "name": "Decompression Session", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2015-06-09 21:34:47", 
+        "description": "", 
+        "ibu": "", 
+        "id": "10RACG", 
+        "name": "Delusions of Grandeur", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6.4", 
+        "createDate": "2016-05-11 15:29:49", 
+        "description": "A session-style IPA with a blend of bittering and aroma hops designed to excite, not overwhelm the palate. Columbus provides the background bitterness while a unique blend of Amarillo, Centennial and Tettnanger hops add subtle, but distinctive flavor notes which harmonize nicely with the flavors of the various roasted malts. The beers moderate alcohol level allows you to drink this malt beverage for hours while enjoying your favorite activities & food.", 
+        "ibu": "77", 
+        "id": "aMSdDr", 
+        "name": "DIRTY * ROTTEN * BASTARD * I.P.A.", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-22 21:23:40", 
+        "description": "", 
+        "ibu": "43", 
+        "id": "ulVWYO", 
+        "name": "Ditz", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-07-15 18:48:17", 
+        "description": "", 
+        "ibu": "30", 
+        "id": "BvfC4b", 
+        "name": "Down the Hatch Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.4", 
+        "createDate": "2015-04-18 23:42:25", 
+        "description": "Down to Earth is the natural evolution (pun intended) of Bitter American, our original session ale. We thought it would be fitting to bring our space chimp home and let him chill. Whether you have a long mission behind you or a full afternoon ahead, this session IPA will help keep things real. More relaxed than an IPA, but with all the hop aroma and flavor, Down to Earth is our tribute to unsung heroes and unplanned adventures. \r\nDown to Earth is available year-round in six-pack cans and on draft and pairs nicely with a variety of things, including lunch.", 
+        "ibu": "42", 
+        "id": "5AJVRp", 
+        "name": "Down To Earth", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.4", 
+        "createDate": "2015-10-23 14:50:09", 
+        "description": "", 
+        "ibu": "50", 
+        "id": "TSz9AF", 
+        "name": "Downtown Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2014-08-30 00:44:37", 
+        "description": "Escape the mundane with this Citra-based, Session IPA, the perfect beer to end a workday or to carry you through a weekend with friends. A heavy dry-hop and pristine finish make Drift the ideal indulgence for any time, every time. Serve cold and enjoy with friends.", 
+        "ibu": "", 
+        "id": "ctSn25", 
+        "name": "Drift", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2016-05-18 14:18:52", 
+        "description": "Our session IPA is truly that - a beer brewed with the express intent of enjoying several pints of Driftwood in a sitting and still feeling ready to attack a night out. We use as much late addition hops as in our normal IPA to maintain IPA levels of aroma and flavor while toning down the bitterness to allow for a balanced and drinkable beer. Hopped with Mosaic and Citra, Driftwood expresses bright notes of citrus, passion fruit, mango, and pineapple. This undoubted Wolf's Ridge employee favorite is sure to be one of yours, too.", 
+        "ibu": "50", 
+        "id": "6OOMtm", 
+        "name": "Driftwood", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-04-13 16:41:13", 
+        "description": "Easy Beaver is brewed just in time for the Spring and Summer seasons; designed to keep you refreshed and loaded with hops all day long. Every batch of Easy Beaver will feature a different strain of hops to showcase the varietal\u2019s flavors and aromas. Crisp, clean, and aromatic, this session brew is bound to make you kick your feet up and smile.", 
+        "ibu": "45", 
+        "id": "5Qm49w", 
+        "name": "Easy Beaver", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-10-03 14:23:21", 
+        "description": "Easy Glider is the perfect beer for the days when you just want to relax with your friends and family. Our Session IPA couples the flavors and aromas of an American IPA with a lower alcohol content. Pronounced citrus, tropical fruit and floral aromas from the three hop varieties pair with a notably crisp malt body. Showcasing the unique hybrid, Equinox, this India Pale Ale embodies bold, complex character.", 
+        "ibu": "45", 
+        "id": "iukjQG", 
+        "name": "Easy Glider", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-05-20 13:14:02", 
+        "description": "Straw colored brewed with a hint of wheat and crystal malts, hopped with Palisade & Cascade Hops. Easy going so you can enjoy more with this great Session IPA. Easy Goer Session IPA just in time to make the summer easy going.", 
+        "ibu": "", 
+        "id": "Gg3PYP", 
+        "name": "Easy Goer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2014-01-03 13:31:10", 
+        "description": "Brewmaster Matt Brynildson went to the mountain and returned with a vision for a different kind of Session IPA, one that would be brewed and dry hopped with a globetrotting selection of new hop varieties from Europe, New Zealand and North America. He foresaw a beer that would deliver massive hop aromas, a signature malt balance and an empty glass before you knew what hit you. And so the newest member of our Jack IPA family was born.", 
+        "ibu": "47", 
+        "id": "AS6d6Z", 
+        "name": "Easy Jack", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-08-01 17:00:05", 
+        "description": "Easy Livin' is an IPA that you can enjoy glass after glass. It has a huge nose with aromas of tropical fruit and pine. The mouthfeel is light and refreshing. Whether or not you are relaxing on the porch or by the fire, Easy Livin' IPA makes a fine companion.", 
+        "ibu": "32", 
+        "id": "Fneu2X", 
+        "name": "Easy Livin' IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-04-10 18:04:26", 
+        "description": "Our take on a sessionable IPA, this light-bodied ale packs a ton of flavor and aroma from the Sorachi Ace and Centennial dry-hopping. It\u2019s the one IPA to have when you\u2019re having more than one!", 
+        "ibu": "", 
+        "id": "ODcExf", 
+        "name": "Easy On The Eyes", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-07-01 12:44:30", 
+        "description": "The only thing \u201ceffortless\u201d about this beer is how it drinks. Domestic and imported malts take a backseat to the loads of American grown hops that are dumped into the kettle. Dry-hopped for mouthwatering aroma with Mosaic and Palisade hops, and infused with natural grapefruit flavor to add to the refreshment. Enjoy an Effortless drinking experience with our Grapefruit Session IPA.", 
+        "ibu": "45", 
+        "id": "vvX88E", 
+        "name": "Effortless Grapefruit IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-03-11 16:40:54", 
+        "description": "", 
+        "ibu": "", 
+        "id": "PfIEI5", 
+        "name": "Emmet Otter & Andie Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.1", 
+        "createDate": "2016-06-28 17:44:01", 
+        "description": "The hit of a heavily hopped IPA, with the sessionability of a classic UK pale ale. Simcoe and Centennial hops dominate this light blonde beer, contributing a big tangerine aroma and long,quenching citrus pith flavour which goes on and on and on.", 
+        "ibu": "45", 
+        "id": "HA5oSN", 
+        "name": "Eternal", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2015-05-23 20:11:34", 
+        "description": "Bright and sunny. Two words that come to my mind when I think of my four year old daughter, Evelyn. These same two words rang through my ears when presented with the chance to provide you with my artistic output. Hardywood Evelyn Session IPA has been built specially for hot days and beautiful sunshine. Bright as I could make her, and singing with tropical juicy fruit notes, Evelyn pours across the palate dry and crisp allowing you to keep going all day. Weighing in at 4.9% and begging to keep playing, I proudly present to you, Evelyn session IPA. Drink deep, friends!  - Kevin Storm, Brewer\r\nAbout the artist:\r\nMike Baker is a self taught artist in Richmond, VA. His work ranges from traditional tattoo flash to macabre and painterly ink wash portraits. See more on instagram @mikerbake.", 
+        "ibu": "45", 
+        "id": "oL89Zw", 
+        "name": "Evelyn", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-08-30 16:31:13", 
+        "description": "", 
+        "ibu": "", 
+        "id": "USILNs", 
+        "name": "Evergreen Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2016-08-10 12:40:41", 
+        "description": "Evolving Hare session IPA  features a rotating hop that changes with the season. Evolving Hare is super drinkable IPA with a 4.6% ABV and a featured hop that will roatate throughout the year.", 
+        "ibu": "", 
+        "id": "INiAqE", 
+        "name": "Evolving Hare", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-05-03 19:00:36", 
+        "description": "Tasting Notes:\r\nNose: Citrus and straw.\r\nPalate: West coast hop flavours greet the palate. Primarily grapefruit and gooseberry, with a mild grass and spice note from the Amarillo hops. Light yet present malt tastes move in behind. The beer finishes crisp and dry, with a very mild training bitterness.\r\nOther Notes:\r\nFirst off this beer is not a traditional IPA, so those expecting a huge nit of bitterness will be disappointed. Session IPAs are lighter bodied and lighter in alcohol than a normal American IPA. Hop, and bitterness is used in beer to balance the alcohol. In a beer with a lower abv, the IBU must be lower as well in order for the beer to maintain its balance. In a session IPA very little bittering hop is used. Hops are added very late in the brewing process to create a strong aroma and flavour profile. This style is intended to a hop forward light beer, something that is well suited to the patio and hot weather. The session in the name refers to this style being a beer that one could consume in larger amounts due to the lower alcohol content.", 
+        "ibu": "30", 
+        "id": "UX3dXk", 
+        "name": "EXHIBITION SESSION IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.2", 
+        "createDate": "2016-04-14 13:26:53", 
+        "description": "", 
+        "ibu": "67", 
+        "id": "v7RPi8", 
+        "name": "EXPEureka! Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2014-06-24 19:50:12", 
+        "description": "A Session IPA, \"Factory Girl\" uses 3 varieties of Australian hops and Parkway's house yeast strain. The flavor is all hops up front with a light body and notes of tropical fruit, apricot and citrus. Finishing with a fading bitterness and slight malt/cereal notes, this light, refreshing seasonal is a perfect summer companion.", 
+        "ibu": "55", 
+        "id": "PkZsZt", 
+        "name": "Factory Girl", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6", 
+        "createDate": "2015-06-22 22:52:26", 
+        "description": "Our seasonal Fall Harvest Ale is brewed with a generous amount of Columbus, Cascade, and Millennium hops lending a nice drinkable bitterness. We then add our mix of fall spices to give hints of apple, cinnamon, and nutmeg. This beer bridges the end of Summer IPA season and the beginning of Autumn spiciness.", 
+        "ibu": "51", 
+        "id": "ofdyAA", 
+        "name": "Fall Harvest Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-08-09 21:04:30", 
+        "description": "", 
+        "ibu": "60", 
+        "id": "7CU5Js", 
+        "name": "Featherweight IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-07-02 02:34:59", 
+        "description": "", 
+        "ibu": "", 
+        "id": "w8ByBt", 
+        "name": "Fixie Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-06-17 19:37:23", 
+        "description": "", 
+        "ibu": "", 
+        "id": "O93ueE", 
+        "name": "Fixin' To", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2015-05-27 14:49:42", 
+        "description": "Hoppy and refreshing, this tasty summer release is the perfect accompaniment while having fun in the Florida sun!", 
+        "ibu": "", 
+        "id": "6Erma2", 
+        "name": "Float On Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-07-12 22:07:14", 
+        "description": "Folly\u2019s Pride - 4.7% abv Crisp, clean, citrusy. Grapefruit Blonde. Summer Session Ale. Easy drinking with mild acidity. Ingredients: Organic malted barley, organic grapefruit zest, organic hops, house ale yeast. Folly\u2019s Pride post Folly\u2019s Pride, our summer session ale, aka grapefruit blonde, is out on the market and getting a tremendous response. We love this beer, made with 10 lbs of fresh organic grapefruit zest. There was an article in the City Paper about our collaboration with the Juice Joint to make the beer. Re-selling the grapefruits to an organic juicer was the only way we could make this work, so we did it! Look for Folly\u2019s Pride to be available all summer as a seasonal through September.", 
+        "ibu": "", 
+        "id": "DxOYZA", 
+        "name": "Folly Pride", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.2", 
+        "createDate": "2015-10-15 16:10:51", 
+        "description": "", 
+        "ibu": "", 
+        "id": "fLOGOw", 
+        "name": "For Rent", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.7", 
+        "createDate": "2015-05-26 23:37:02", 
+        "description": "Session ale / Luncheon ale. 3.7%  A sneaky little number offering some easy drinking light relief from all those hop bombers. Ideal for those who like to spin a yarn over some time or have expensive / dangerous machinery to operate after lunch.", 
+        "ibu": "", 
+        "id": "ET7qwv", 
+        "name": "FOXY TALE", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.3", 
+        "createDate": "2016-05-08 17:51:40", 
+        "description": "", 
+        "ibu": "42", 
+        "id": "hSpCsB", 
+        "name": "Frequent Flier", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "7.2", 
+        "createDate": "2016-06-22 07:51:41", 
+        "description": "", 
+        "ibu": "50", 
+        "id": "PaHOuY", 
+        "name": "Fresh Hop '15", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-06-21 13:08:52", 
+        "description": "", 
+        "ibu": "45", 
+        "id": "t369ba", 
+        "name": "Gaper Day ISA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.4", 
+        "createDate": "2015-06-09 16:34:14", 
+        "description": "", 
+        "ibu": "", 
+        "id": "hmsWOJ", 
+        "name": "Get Together", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-06-15 20:07:25", 
+        "description": "", 
+        "ibu": "", 
+        "id": "qZFXDt", 
+        "name": "Go Long", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2014-09-18 18:14:43", 
+        "description": "Since Day One, we've been abundantly forthright and fully transparent about our lust for hops. It's led us to craft many an IPA, most of them imperial\u2014some intense for their time and all timeless in their intensity. For Stone Go To IPA, we are embracing our hop obsession in a new way, funneling an abundance of lupulin-borne bitterness into a \"session\" IPA delivering all the fruity, piney character of a much bigger IPA. To accomplish this, we employed \"hop bursting,\" a new technique wherein an irrational amount of hops is added during the final phase of the brewing process to coax out extreme flavors and aromas while also imparting a burst of desirably pleasant bitterness. The result is an Alpha-acid-rich beer that fans can enjoy more of without missing out on the assertive hop character you, like us, crave. So, sit back and go two with your new everyday go-to IPA and bask along with us in the glory of the almighty hop.", 
+        "ibu": "65", 
+        "id": "YBTVJp", 
+        "name": "Go To IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2016-03-04 16:24:28", 
+        "description": "", 
+        "ibu": "", 
+        "id": "qziT0S", 
+        "name": "Going Steady IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.2", 
+        "createDate": "2015-06-22 21:43:38", 
+        "description": "Overly hopped session IPA with Cascade, Belma and Columbus hops.", 
+        "ibu": "52", 
+        "id": "5wjc4k", 
+        "name": "Good Guy Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2015-07-05 22:11:11", 
+        "description": "", 
+        "ibu": "", 
+        "id": "5ULXHL", 
+        "name": "Good Ideas", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.8", 
+        "createDate": "2015-12-20 17:41:03", 
+        "description": "A Pale Ale with a dry, toffee-nutty flavour and notes of citrus and pine due to generous helpings of English and American hops.", 
+        "ibu": "", 
+        "id": "4bTF0l", 
+        "name": "Good Ordinary Pale Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2015-10-12 15:18:38", 
+        "description": "", 
+        "ibu": "", 
+        "id": "wJ9ull", 
+        "name": "Gravenstime", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2015-08-07 18:55:25", 
+        "description": "", 
+        "ibu": "", 
+        "id": "otx8KO", 
+        "name": "Gravity Check", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-08-23 17:36:23", 
+        "description": "Forget everything you knew about the previous version of our Greed.\r\nThis new installment is a \u2018Session IPA\u2019 meaning it is a light, low-alcohol\r\nIPA, very refreshing and easy to drink more than one. It pours a golden\r\ncolor with a creamy beige head. It is unfiltered so it is slightly cloudy.\r\nThe aroma is fresh and hoppy. It delivers the traditional grapefruit hop\r\nflavor of an IPA.", 
+        "ibu": "", 
+        "id": "WTINu4", 
+        "name": "Greed", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.4", 
+        "createDate": "2015-10-30 19:24:19", 
+        "description": "A light bodied pale ale showcasing the aromatics of our Pacific Northwest hop blend.", 
+        "ibu": "", 
+        "id": "rZyo12", 
+        "name": "Green Street", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-06-30 21:50:04", 
+        "description": "Our Session IPA is brewed with leisure in mind. Whether you are making the turn or watching the game with old friends, it\u2019s the perfect complement to an easygoing lifestyle.\r\n\r\nNotes of citrus and pine exist in perfect balance with its malt profile and the low ABV allows you to enjoy even the longest of afternoons. It\u2019s brewed with 2-Row and Victory Malts, a generous helping of hops during the boil, then dry hopped for one week before kegging and canning. This IPA deserves a day off.", 
+        "ibu": "64", 
+        "id": "Iztere", 
+        "name": "Greenskeeper", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.6", 
+        "createDate": "2016-03-23 20:43:53", 
+        "description": "", 
+        "ibu": "", 
+        "id": "evNpgT", 
+        "name": "Gruene", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2016-02-23 18:58:18", 
+        "description": "", 
+        "ibu": "", 
+        "id": "rgtUin", 
+        "name": "Habanero Fluffer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.7", 
+        "createDate": "2016-09-09 20:34:46", 
+        "description": "A medium-bodied India Pale Ale with spicy notes of rye and a bright hop aroma", 
+        "ibu": "78", 
+        "id": "J3DalO", 
+        "name": "Haleakala Sunryes", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.1", 
+        "createDate": "2015-08-05 15:29:22", 
+        "description": "A sessionable-ish IPA made with 100% Nelson Sauvin hops. This beer is 100% whirlpool w/ strong flavors and aromatics of Sauvignon Blanc wine and fresh mangos.", 
+        "ibu": "", 
+        "id": "6sDnxJ", 
+        "name": "Half Nelson", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.5", 
+        "createDate": "2016-08-28 20:48:53", 
+        "description": "Introducing our newest canned beer, the first in Kentucky to be available in 12-packs, the Half-Bite IPA!half-bitelogo-01\r\n\u201cDesigned to be the younger brother of the West Sixth IPA, the Half-Bite IPA uses the same varieties and quantity of hops as our regular IPA, but contains only half the alcohol \u2013 so it\u2019s perfect for summer days and outdoor adventures when you want to have a few\u201d, said one of our co-founders Brady Barlow.\r\n\r\nReflecting on the nature of the beer, it only seemed appropriate the Half-Bite IPA will be canned and sold in 12-pack boxes. We\u2019re really excited to be the first brewery in Kentucky to do this.\r\n\r\nIt\u2019s aggressively hopped with Centennial, Citra and Columbus hops and packs a great bite, earthy bitterness and citrus notes but clocks in at only 3.5% ABV.", 
+        "ibu": "", 
+        "id": "vknR5P", 
+        "name": "Half-Bite IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2016-02-20 18:56:21", 
+        "description": "Cooling out on the dock, jamming tunes and popping tops, wait for da rod to bend. Gist of the grist is mellow at 4.2%, laying down the base to showcase the blazin\u2019 Amarillo hop hash sunset.", 
+        "ibu": "", 
+        "id": "JKdiyv", 
+        "name": "Hash Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.4", 
+        "createDate": "2016-06-28 18:39:56", 
+        "description": "Created to have all the hoppy goodness of an IPA, but brewed to a sessionable strength.  Its intense fruit-salad character comes from generous additions of US West Coast hops.  A full bodied and fruity beer, with notes of passion fruit, grapefruit, gooseberry, pineapple & mango.", 
+        "ibu": "", 
+        "id": "JIUKR2", 
+        "name": "Heart & Soul", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-06-16 14:18:41", 
+        "description": "", 
+        "ibu": "", 
+        "id": "xVoheC", 
+        "name": "Hobo Life", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-22 23:27:19", 
+        "description": "Can you say Ham-ven-tion? Over? Hamvention is almost as synonymous to Dayton as those two guys and that historic airplane invention we\u2019ve heard so much about. Home Brew Radio Session IPA was brewed in honor of the loyal \u201cHamventioneers\u201d who come to our fair city each year to celebrate everything Amateur Radio has to offer. Home Brew Radio Session IPA has a lot to say about flavor! Right up front you\u2019ll be squarely hit with beautiful fresh citrusy hops followed by a nice bitter bite\u2026no static at all! Consider your palette cleansed. This bright gold IPA pairs well with just about any food, is a real thirst quencher and is highly sessionable at 4.5% ABV. Home Brew Radio Session IPA\u2026 May your signal always be clear!", 
+        "ibu": "", 
+        "id": "B269Cs", 
+        "name": "Home Brew Radio Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.7", 
+        "createDate": "2015-06-16 15:13:36", 
+        "description": "Brewed for our hardworking musician friends from The Jordan Years.", 
+        "ibu": "", 
+        "id": "4hRdti", 
+        "name": "Homemade Hustler", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6.5", 
+        "createDate": "2015-04-12 23:51:59", 
+        "description": "Blood Orange Gypsy.", 
+        "ibu": "", 
+        "id": "3nd3oK", 
+        "name": "Hop Continuum No. 1", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2016-07-14 19:26:33", 
+        "description": "", 
+        "ibu": "", 
+        "id": "VL9Lxq", 
+        "name": "Hop Hop and Away", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-06-03 00:57:10", 
+        "description": "End of the day. Work\u2019s done. Fun\u2019s in session. Make it last with this aromatic ale brewed to keep the good times going. A session IPA full of Azacca\u2122 and Sorachi Ace\u2122 hops, with all the flavor you\u2019ve come to expect from Foothills. Thirsty? Get a Job.", 
+        "ibu": "75", 
+        "id": "BkwmiO", 
+        "name": "Hop Job", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-05-04 13:14:51", 
+        "description": "A trio of hops come together in this crisp session IPA. Brewed with Meyer lemon, Hop Slice balances floral hop notes and a subtle citrus kick.", 
+        "ibu": "45", 
+        "id": "ifFkDZ", 
+        "name": "Hop Slice", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.3", 
+        "createDate": "2016-02-08 14:38:55", 
+        "description": "", 
+        "ibu": "40", 
+        "id": "sa02WQ", 
+        "name": "Hop Tease", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "7.5", 
+        "createDate": "2016-01-08 21:00:35", 
+        "description": "", 
+        "ibu": "", 
+        "id": "tLi6ra", 
+        "name": "Hopfenf\u00e4nger India Pale Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.5", 
+        "createDate": "2015-06-17 15:42:53", 
+        "description": "So, you like hops. You really like hops. You dream about hops. You obsess about hops. You want to marry hops. Sounds like a classic case of Hopochondria, which is probably why you're attracted to this beer.\r\n\r\nOur session IPA is perfect for those who really dig the complexities of an IPA and want something more accessible. With five unique hop varieties, it boasts citrus, floral, and grassy notes. So go ahead and pop the top. Rest assured, it isn't all in your head.", 
+        "ibu": "57", 
+        "id": "hpjxDx", 
+        "name": "Hopochondria", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-10-13 14:24:16", 
+        "description": "", 
+        "ibu": "", 
+        "id": "rX7NBO", 
+        "name": "Hopperation 'Splode", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-19 13:06:46", 
+        "description": "Hoppy Diver is a Session IPA that was inspired by a trip to the hop harvest in Yakima, Washington. Imagine yourself surrounded by mountains of hops, with an aroma so enticing you feel like diving in and rolling around in all that delicious piney, danky goodness. Well that is what our Head Brewer Brannon Radicke did\u2026he dove right in! On the trip to the hop harvest, we got a chance to try a new experimental hop that has yet to be named. It\u2019s just numbered hop #07270. We were intrigued and just had to try it. Thus our Session IPA was born.\n\nHoppy Diver Session IPA was brewed with only two-row pale malt and the experimental #07270 and Mosaic. Full of herbal and citrusy notes, Hoppy Diver has all the hop flavor you\u2019d want from an IPA but with a lower ABV. So pull a seat at the bar, and enjoy this limited-release beer on draft, and imagine yourself in a mountain of hops!", 
+        "ibu": "", 
+        "id": "x5pYcL", 
+        "name": "Hoppy Diver", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-08-16 14:50:22", 
+        "description": "", 
+        "ibu": "", 
+        "id": "560iM3", 
+        "name": "Horicon Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2015-08-07 19:50:55", 
+        "description": "Brewed with Vienna and Munich malts. Hopped aggressively with Mosaic, Simcoe, and Amarillo.", 
+        "ibu": "", 
+        "id": "RDfwTp", 
+        "name": "How Easy it is to Deny the Pain of Someone Else's Suffering", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.6", 
+        "createDate": "2015-05-28 19:57:38", 
+        "description": "Using all locally grown and produced ingredients, we set out to make a Pale Ale that is exemplary of the great malt, hops and water Idaho has to offer. Lightly hopped, you will find lemony citrus and herbal notes highlighting this very quaffable beer.", 
+        "ibu": "18", 
+        "id": "hrPZ18", 
+        "name": "Idaho Session Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.75", 
+        "createDate": "2015-05-21 00:19:41", 
+        "description": "All the strength and sting of an IPA in a low-alcohol package. Barely tipping the scales at just below 4% ABV, this little beer can be enjoyed all day long - if you can handle the bitterness!", 
+        "ibu": "41", 
+        "id": "iwRcu3", 
+        "name": "Inaugural Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-08-05 13:31:58", 
+        "description": "", 
+        "ibu": "58", 
+        "id": "cnhLzZ", 
+        "name": "Insubordinate Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-05-26 13:16:05", 
+        "description": "Opinionated and hopped-up, Introvert can easily be misunderstood for having a strong personality. But this artistically complex IPA seeks balance and creative harmony with low ABV and a relaxed pace. Explore Your Introvert, gather your closest friends and explore the possibilities. Hop aromas of tropical papaya and kiwi with woodsy pine, balanced by honey malt and a clean bitter finish.", 
+        "ibu": "55", 
+        "id": "dyTZEO", 
+        "name": "Introvert Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.9", 
+        "createDate": "2016-05-01 14:54:32", 
+        "description": "Una versi\u00f3n suave de una IPA , suave en alcohol , agradable de beber pero bien lupulada , es una cerveza en la que predomina absolutamente el l\u00fapulo sobre la malta. Tiene un bonito tono amarillo-anaranjado con cierta turbidez , arom\u00e1ticamente es muy compleja predominando frutas tropicales y toque pin\u00e1ceo , tiene un cuerpo ligero , muy f\u00e1cil de beber y sabores frescos de los l\u00fapulos.", 
+        "ibu": "51", 
+        "id": "TuPeSE", 
+        "name": "IPA-NEMA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-05-12 20:34:05", 
+        "description": "", 
+        "ibu": "50", 
+        "id": "uCCl3E", 
+        "name": "Jaded Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "2.5", 
+        "createDate": "2015-09-13 17:43:54", 
+        "description": "", 
+        "ibu": "", 
+        "id": "gUxMug", 
+        "name": "Johnny Low IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.2", 
+        "createDate": "2016-06-27 23:03:47", 
+        "description": "", 
+        "ibu": "44", 
+        "id": "aZZyLc", 
+        "name": "Juice", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-09-16 14:50:04", 
+        "description": "", 
+        "ibu": "", 
+        "id": "FfmdpM", 
+        "name": "Juicy Wolf", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-04-28 19:45:53", 
+        "description": "", 
+        "ibu": "", 
+        "id": "y6oMd9", 
+        "name": "Ka...Pow", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-11-19 22:34:45", 
+        "description": "", 
+        "ibu": "", 
+        "id": "RcF0wA", 
+        "name": "Kentucky Race Day Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-09-13 14:07:07", 
+        "description": "", 
+        "ibu": "", 
+        "id": "EaV2im", 
+        "name": "Khoppig", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-07-27 15:15:32", 
+        "description": "Inspired by 24 hours of daylight, Kicker Session IPA is an anytime brew with fruity Citra and Amarillo hops and a burst of bright citrus Simcoe hop aroma.", 
+        "ibu": "45", 
+        "id": "cgIsX6", 
+        "name": "Kicker Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-07-24 19:00:48", 
+        "description": "Built in 1797, the USS Constitution is a heavy frigate that was made for war. During the war of 1812, she captured multiple merchant ships and destroyed five British warships earning her the nickname \u201cOld Ironsides\u201d. This brew was created to stand the test of time like the ship it was named after. Deceivingly smooth with just enough bite, this brew is built to win not only wars built, but also the hearts and minds of the public. Come enjoy a day on the open seas with a companion that is made for anything you can throw at it.", 
+        "ibu": "50", 
+        "id": "AABQRi", 
+        "name": "Legendary American Spirit", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-08-03 22:19:11", 
+        "description": "Brewed for the warm, stunning, long days of summer in the Pacific NW, Life Jacket Session IPA will refresh and quench your thirst like no other. Concocted with Pale ale and Pilsner malts, producing a light golden hue and providing a crisp, clean and dry malt base for the Yakima Valley grown Amarillo and Nugget hops to emerge from. Abundant late hop additions in the kettle, whirlpool and fermenter contribute powerful hop notes of citrus and tangerine in the flavor and aroma, while bitterness remains muted. Whether you\u2019re mowing the lawn, weeding the garden, hiking the mountains, or enjoying the water, stay cool and safe with a few Life Jackets", 
+        "ibu": "55", 
+        "id": "ebpabf", 
+        "name": "Life Jacket Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-09-26 15:52:43", 
+        "description": "", 
+        "ibu": "", 
+        "id": "mYtmI4", 
+        "name": "Lil Citra", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.2", 
+        "createDate": "2016-07-06 18:11:47", 
+        "description": "", 
+        "ibu": "55", 
+        "id": "I63n5e", 
+        "name": "Lil' RBF", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-08-23 21:10:08", 
+        "description": "", 
+        "ibu": "", 
+        "id": "l6k0Cw", 
+        "name": "Little Cranky", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2016-09-20 14:00:05", 
+        "description": "An American-style IPA brewed to \u201csessionable\u201d strength. Passionfruit and grapefruit dominate the flavor profile, while the clean Irish malt keeps to the backround, creating an intense, yet balanced hop-forward beer.", 
+        "ibu": "40", 
+        "id": "aFmC39", 
+        "name": "Little Fawn", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-09-23 21:23:44", 
+        "description": "", 
+        "ibu": "45", 
+        "id": "UQcjah", 
+        "name": "Little Joe", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-05-26 18:07:04", 
+        "description": "", 
+        "ibu": "60", 
+        "id": "2TKGFl", 
+        "name": "Little Sister ISA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-08-19 15:11:01", 
+        "description": "LongerDays is a Session IPA, named after some friends of ours and brewed for people like us \u2013 those who want to enjoy a few beers throughout the longer days of summer, without missing the sunset.  Although it is lower in alcohol, LongerDays sacrifices nothing in flavor.", 
+        "ibu": "45", 
+        "id": "etTyMF", 
+        "name": "LongerDays Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-07-21 18:09:12", 
+        "description": "", 
+        "ibu": "40", 
+        "id": "qpEJBI", 
+        "name": "Lord Henry Summer Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-08-07 18:48:52", 
+        "description": "A wheat based session IPA with a crisp, silk malt body that balances resiny hop bitterness and boasts loads of tropical fruit flavor on the finish. Simply crushable.", 
+        "ibu": "50", 
+        "id": "aGVW1W", 
+        "name": "Lost Galaxy", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2016-01-15 19:20:08", 
+        "description": "Kelly Ryan has returned for the third time to brew for us, this time at Shepherd Neame Brewery (Kent), where he is re-creating this excellent beer for the second time. This golden beer is a lower-strength IPA, bursting with fruit notes, while the biscuity, smooth mouthfeel is balanced by a clean bitterness. Hops: Citra, Nelson Sauvin, Simcoe", 
+        "ibu": "", 
+        "id": "3plAfb", 
+        "name": "Low Blow", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-03-28 13:20:14", 
+        "description": "The beat is steady and clear. First it\u2019s in your fingers, snap-snapping. Then it\u2019s in your toes, tap-tapping. The rhythm rises free and flowing. A new session finds its pace and tunes out time, leading you on a remarkable journey. Slake it with song, feed it with feeling and let Low Key be your guide.", 
+        "ibu": "40", 
+        "id": "rjkvYR", 
+        "name": "Low Key", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-05-26 13:43:26", 
+        "description": "The Low Pressure Session IPA sits at a comfortable 5.2% and the mango-citrus flavors make this an ideal beer for any daylong hangout.", 
+        "ibu": "40", 
+        "id": "RTQSuB", 
+        "name": "Low Pressure", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-08 14:21:52", 
+        "description": "A light bodied hop bursted session IPA that focuses on  showcasing the piney, resiny, and tropical fruit notes of Mosaic hops. It pours a clear golden color with aromas and flavors of passion fruit and pine.  The hop bitterness is balanced making it very easy to drink.", 
+        "ibu": "55", 
+        "id": "epuVEq", 
+        "name": "Lowball Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2016-08-19 12:25:14", 
+        "description": "A light yet complex IPA that can be enjoyed all day. Chinook and Eldorado hops bolster the aroma and flavor.", 
+        "ibu": "", 
+        "id": "vdOxcw", 
+        "name": "Lucky 27 - Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2015-08-06 14:50:17", 
+        "description": "She\u2019s a fair Maiden, but a heartbreaker. She wraps us in her deep golden glow, teasing us with crisp citrus scents, whispering secrets of fragrant hops from faraway lands. So we draw her to our lips. And just like that, she\u2019s gone. Ah, well. One Maiden calls for another.", 
+        "ibu": "4.6", 
+        "id": "zSXElE", 
+        "name": "Maiden", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-07-26 12:23:43", 
+        "description": "A clean and crisp session ale noting a smooth hop bitterness balanced with our premium malts, then dry hopped to create a truly \u201csensational session\u201d IPA.", 
+        "ibu": "55", 
+        "id": "ZjKrNd", 
+        "name": "Main Street Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-07-31 19:41:13", 
+        "description": "American hop breeders have led the way in creating unique and interesting aroma varieties. Hop breeders across the globe have followed suit. Beer II in our Hop Program, a session IPA, features some of our favorite aromas varieties from here and abroad- Amarillo, Citra, Simcoe, Hallertau Blanc and Nelson Sauvin.", 
+        "ibu": "", 
+        "id": "VkvX9G", 
+        "name": "Maine Beer II", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-07-28 03:28:05", 
+        "description": "A session IPA with mango puree and natural mango flavors, pink peppercorns and dry-hopped with Australian Galaxy Hops.", 
+        "ibu": "45", 
+        "id": "UhZ53W", 
+        "name": "Man-Go-Crazy IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2016-02-23 18:56:51", 
+        "description": "", 
+        "ibu": "", 
+        "id": "d3RsPv", 
+        "name": "Mango Fluffer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-05-21 14:19:45", 
+        "description": "Our Summer Seasonal IPA is made with a blend of Cranberry and Lemon and has a bright citrus hop character.", 
+        "ibu": "", 
+        "id": "5Itnwl", 
+        "name": "Marie Celeste", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-07-09 13:25:42", 
+        "description": "", 
+        "ibu": "", 
+        "id": "QwxqY3", 
+        "name": "Matin\u00e9 Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2015-06-11 15:12:43", 
+        "description": "Peer pressure got the best of us this time. After repeatedly being asked to brew a session IPA, we finally caved in. So in true Device fashion, we hopped the daylights out of it and hit it with the Basilica dry hop schedule for an intense aromatic experience.", 
+        "ibu": "70", 
+        "id": "1Jl9k1", 
+        "name": "Me Too!", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-12-14 00:35:00", 
+        "description": "", 
+        "ibu": "45", 
+        "id": "zCmiKs", 
+        "name": "Meta Modern", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6.4", 
+        "createDate": "2015-04-17 17:16:24", 
+        "description": "We used all Apollo hops. The high aroma hop usage resulted in a very vegital flavor; you could literally taste the hops.", 
+        "ibu": "", 
+        "id": "dDFHdw", 
+        "name": "Misdemeanor First", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.4", 
+        "createDate": "2015-04-17 17:18:40", 
+        "description": "This time we used Apollo hops for bittering and flavor and bravo hops for aroma. This resulted in a less vegetal hop flavor while enhancing the hop aroma.", 
+        "ibu": "", 
+        "id": "FWy5nN", 
+        "name": "Misdemeanor Second", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-04-17 17:20:01", 
+        "description": "We used Apollo hops only for bittering and then Bravo for flavor and aroma.", 
+        "ibu": "", 
+        "id": "rqgtwo", 
+        "name": "Misdemeanor Third", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2016-09-09 03:22:35", 
+        "description": "", 
+        "ibu": "60", 
+        "id": "r69MxV", 
+        "name": "More Ping!", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-08-05 17:22:02", 
+        "description": "A \u201csession\u201d IPA (only in IPA standards). This IPA is done with 100% mosaic hops which gives it a very tropical-fruit aroma and flavor.", 
+        "ibu": "", 
+        "id": "ePu4WN", 
+        "name": "Mosaic Marathon", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2014-07-25 22:26:51", 
+        "description": "Our Coastal Reserve series is a hoppy playground for our brewers to experiment and push boundaries.\r\n\r\nSo when the Mosaic hop first came on the scene, they couldn\u2019t wait to get their hands on some. Mosaic Session Ale is bursting with vibrant grapefruit aroma and flavors of citrus and tropical fruit. Our signature dry-hopping technique delivers an incredibly drinkable, lower ABV beer; without sacrificing hop appeal. From a small test batch to the bottle you now hold in your hands, this isn\u2019t a one-and-done beer. Sit back, have a few, and enjoy your session", 
+        "ibu": "45", 
+        "id": "CPHfHh", 
+        "name": "Mosaic Session Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.8", 
+        "createDate": "2016-03-08 15:18:12", 
+        "description": "", 
+        "ibu": "40", 
+        "id": "EzJeOm", 
+        "name": "Moscoe", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-01-25 19:11:59", 
+        "description": "", 
+        "ibu": "", 
+        "id": "S8gLbg", 
+        "name": "Nitro Horicon", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-01-21 15:06:44", 
+        "description": "Our \"Session IPA\" bursts open with aromatics of fresh citrus fruits, ripened melon and a distinctive floral bouquet. Weaved carefully under the hop bitterness lies a light, semi-sweet malt body, that finishes in a crisp N' clean fashion.", 
+        "ibu": "45", 
+        "id": "gSnyMn", 
+        "name": "No Problems", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2016-01-15 14:34:31", 
+        "description": "", 
+        "ibu": "", 
+        "id": "XbtuuO", 
+        "name": "Noisy Cricket", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.4", 
+        "createDate": "2016-07-14 19:29:10", 
+        "description": "This 2015 GABF Bronze Medal winner in the Session IPA category is pale golden in color, light-bodied and the ultimate treat for your nose with big hoppy aromas and flavors reminiscent of pink Nerds, white Airheads and melted Big Sticks. 4.4% abv", 
+        "ibu": "", 
+        "id": "7esA7H", 
+        "name": "Nose Candy", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-08-12 19:08:36", 
+        "description": "Session IPA made for the Mrs Double D event held at Slide Bar.", 
+        "ibu": "", 
+        "id": "FEodbT", 
+        "name": "Nuclear Chi Chi's", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-11-30 20:19:32", 
+        "description": "", 
+        "ibu": "", 
+        "id": "Qv3zDp", 
+        "name": "Offhand Runner Session Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-07-22 17:59:18", 
+        "description": "", 
+        "ibu": "", 
+        "id": "LE12Vb", 
+        "name": "On Belay IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-05-11 16:27:31", 
+        "description": "", 
+        "ibu": "50", 
+        "id": "VO24U6", 
+        "name": "On The Waterfront", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-08-07 18:52:19", 
+        "description": "To be totally honest, it wasn\u2019t really part of our plans to brew a collaboration beer with Cigar City also this year. But we received a mail from head brewer Wayne Wambles saying: \"Hey guys, I\u2019m coming back for the Copenhagen Beer Celebration, why don\u2019t we brew a beer?\" And since Wayne is not only one of the nicest persons in the craft beer world but also one of the most innovative and skilled, it was an easy decision to make room in our schedule for another Cigar City collaboration. The beer of choice turned out to be \"Orange Crush\" a so called Session IPA - low in alcohol and potency, but high in drinkability. Heavily dry-hopped with the juiciest of American aroma hops: Citra, Mosaic and Simcoe and a solid dose of our secret ingredient, a super fragrant brand of American orange peel. Orange Crush is a bit of a quaffer - we\u2019re almost certain, that you will like it. And Wayne\u2026.you\u2019re welcome back anytime!", 
+        "ibu": "", 
+        "id": "CaEKAx", 
+        "name": "Orange Crush", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2015-04-19 01:23:01", 
+        "description": "Straight from our stash to your glass, we've created a chronically crushable ale that turns over easy without exhausting the palate.", 
+        "ibu": "40", 
+        "id": "Jnl7kh", 
+        "name": "Over Easy Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-05-15 22:37:38", 
+        "description": "", 
+        "ibu": "65", 
+        "id": "Do4w5r", 
+        "name": "Par 4", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-07-17 15:34:15", 
+        "description": "", 
+        "ibu": "40", 
+        "id": "Ln4Gn6", 
+        "name": "Passion Fruit Pinner", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-05-08 20:05:49", 
+        "description": "We created Philadelphia Runner\u2019s Ale to commemorate The Philly 10K on September 6th. The 6.2 mile race runs through the heart of the city starting on East Passyunk Avenue. The race winds through a dozen Philly neighborhoods past row homes, markets and restaurants. Philadelphia Runner\u2019s Ale is a 4.5% session IPA that will be available on draft only at the Post Race Street Festival on East Passyunk and at participating bars and restaurants. A research study conducted by Dr. Manuel J Castillo, Professor of Medical Physiology School of Medicine at the University of Grenada discovered that beer has positive re hydration effects after physical exertion. It has become a tradition here in Philadelphia for some running clubs to enjoy a beer at the end of a run by toasting \u201cTo the professor!\u201d. We hope you will toast the professor while enjoying our latest creation.", 
+        "ibu": "", 
+        "id": "Cz2vqx", 
+        "name": "Philadelphia Runner's Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2015-01-19 22:41:23", 
+        "description": "How do you cram as much hop & malt flavor and aroma as possible into a beer but make it crushable too? That\u2019s the challenge we answered with PINNER Throwback IPA. This drinkable IPA uses several varieties of hops to target the ever-evolving flavor. With tropical fruits, citrus juices, pineapple and spice berry up front in the aroma and flavor, the biscuit & toasted bread at the back balance out all the hops and make a great finish to go on to your next can of PINNER. It\u2019s the perfect beer for a little sip, sip, give.", 
+        "ibu": "35", 
+        "id": "52gmSJ", 
+        "name": "Pinner Throwback IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-07-14 14:14:46", 
+        "description": "A sessionable IPA brewed with a single malt and hopped up with Citra, Amarillo and Simcoe hops. Easy drinking with a burst of citrusy hops.", 
+        "ibu": "35", 
+        "id": "MJ36OW", 
+        "name": "Pipehawk Mountain Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-06-08 23:52:37", 
+        "description": "Made for the Gothenburg hamburger restaurant burgersson.", 
+        "ibu": "", 
+        "id": "5cgIYc", 
+        "name": "Poppels Fatserie 003 the burgersson edition", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2016-06-09 00:06:10", 
+        "description": "SESSION IPA \r\n\u00d6len du h\u00e5ller i din hand \u00e4r en Session IPA. Namnet kommer sannolikt fr\u00e5n England och tiden d\u00e5 arbetarna faktiskt fick dricka under sina \"sessions\". F\u00f6r att saker inte skulle g\u00e5 helt \u00f6verstyr kr\u00e4vdes ett l\u00e4ttare \u00f6l p\u00e5 mellan tre och fyra procent. V\u00e5r tolkning \u00e4r n\u00e5got starkare och passar utm\u00e4rkt efter men inte p\u00e5 jobbet. \r\n\r\n\"En utmaning n\u00e4r man arbetar med alkoholsvaga \u00f6l \u00e4r att f\u00e5 till kropp och munk\u00e4nsla. Det finns alltid en risk att \u00f6let kan upplevas vattnigt. H\u00e4r har jag anv\u00e4nt fem olika maltsorter, tre humlesorter och slutligen, f\u00f6r att hedra \u00f6lets ursprung, en klassisk alej\u00e4st fr\u00e5n England. \r\n- Daniel Granath, bryggm\u00e4stare", 
+        "ibu": "30", 
+        "id": "VRM0Nq", 
+        "name": "Poppels Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.1", 
+        "createDate": "2016-03-02 16:40:29", 
+        "description": "Named after our friends down this street, this IPA is lacking in alcohol but not flavor, with a lovely hop finish and mild body.", 
+        "ibu": "", 
+        "id": "iS8P5o", 
+        "name": "Practice Yoga", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-05-08 12:37:38", 
+        "description": "Bursting with ripe citrus and tropical fruit hop aromatics, this Belgian IPA is refreshingly dry and super drinkable with a crisp, clean bready malt character and lively Belgian yeast notes.", 
+        "ibu": "58.5", 
+        "id": "bsDA70", 
+        "name": "Promiscuou's Apostrophe", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2016-09-10 17:22:10", 
+        "description": "", 
+        "ibu": "", 
+        "id": "qatrKS", 
+        "name": "Quick Sesh Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.8", 
+        "createDate": "2016-07-02 12:50:51", 
+        "description": "This easy-drinking hopped-up session IPA may be light in color but is packed full of lemony herbal notes and subtle strawberry flavors derived from Lemondrop and Azacca hops.  Expect a dry, crisp finish that will leave you wanting another\u2026and another.", 
+        "ibu": "42", 
+        "id": "EplmOQ", 
+        "name": "Rainbow Road", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-05-13 14:50:26", 
+        "description": "", 
+        "ibu": "92", 
+        "id": "Rjt1cI", 
+        "name": "Rainy Day IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-05-21 15:24:16", 
+        "description": "", 
+        "ibu": "", 
+        "id": "7RIJvQ", 
+        "name": "Reasoning Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2016-02-17 09:33:57", 
+        "description": "", 
+        "ibu": "", 
+        "id": "u1DWmk", 
+        "name": "Red Zeppelin Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-07-11 13:46:27", 
+        "description": "A light and Floral Session IPA Hopped with Simcoe, Citra and Summit form boil to dry hop. With a crisp clean malt profile that show cases all the hop flavors and aromas", 
+        "ibu": "38", 
+        "id": "4tpf36", 
+        "name": "Relaxer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-07-30 14:05:14", 
+        "description": "", 
+        "ibu": "", 
+        "id": "iRu9Yl", 
+        "name": "Reviller", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-08-19 19:43:14", 
+        "description": "Straw-colored beer hops in which the Anglo-Americans, with citrus notes and dry aftertaste, blend harmoniously with the elegant Belgian spiciness and a light refreshing acidity. Excellent as an aperitif and as a fire extinguisher for your thirst!", 
+        "ibu": "", 
+        "id": "AIliwe", 
+        "name": "Riff", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2016-02-23 18:57:08", 
+        "description": "", 
+        "ibu": "", 
+        "id": "FNAgZM", 
+        "name": "Ruby Red Fluffer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.6", 
+        "createDate": "2016-06-26 23:24:55", 
+        "description": "From the brewery: \"Rye Felicia is brewed with a 40 percent blend of rye. Giving the spicy and roasty flavors. A mixture of English and New Zealand makes this unique fall on the IPA side of things while it retains its brown rye awesomeness.\"", 
+        "ibu": "", 
+        "id": "AkuGWO", 
+        "name": "Rye Felicia", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6.8", 
+        "createDate": "2015-06-11 20:22:20", 
+        "description": "Freshly squeezed apricot on the nose contradicts the full-flavored, hop-forward palate with bright carbonation followed by a lingering, spicy bitterness on the finish.\r\n\r\nSandi\u2019s signature: Nugget and Chinook hops for bittering, Equinox for dry hopping. Roasted barley and pilsner malts and lots of spicy rye.", 
+        "ibu": "52", 
+        "id": "JikINA", 
+        "name": "Rye IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-08-08 20:28:24", 
+        "description": "Easy drinking \"Session\" ale. Light on the malt, but still heavy on the hops.", 
+        "ibu": "50", 
+        "id": "L1MCRw", 
+        "name": "Sargon", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-07-03 13:28:45", 
+        "description": "Tons of late addition hops including Simcoe and Chinook. Easy drinking, moderately bitter, with a huge pine forest aroma and flavor.\r\n\"Get learn-ed\" by the Schoolmaster!", 
+        "ibu": "43", 
+        "id": "Vbbufx", 
+        "name": "Schoolmaster Session Hoppy Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-11-18 14:40:27", 
+        "description": "Segal Ranch Session IPA features Tomahawk, Centennial and Cascade hops that were hand-selected by our Brewmaster exclusively from our friends at Segal Ranch in Yakima, Washington. The verdant pungency and citrus aromatics from Tomahawk hops serve as the perfect base layer to allow the flavors of bright floral and pine sap from Centennial hops to emerge on the palate. Notes of resinous citrus from Segal Ranch\u2019s high-oil Cascade hops shine through the finish.", 
+        "ibu": "65", 
+        "id": "WtX49a", 
+        "name": "Segal Ranch Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-08-14 16:54:56", 
+        "description": "", 
+        "ibu": "", 
+        "id": "mmUuAX", 
+        "name": "Session #4", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-07-29 19:25:16", 
+        "description": "Bright grapefruit aromas transition to candied lemon and mandarin oranges under a full-flavored yet dry, tart finish.", 
+        "ibu": "60", 
+        "id": "MahU96", 
+        "name": "Session Brett IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2016-05-07 16:24:26", 
+        "description": "At a lower ABV, this India Pale Ale is designed to be enjoyed by all. This recipe is highlighted by a hop bill including nuggets, cascades, ahtanum, and sorachi ace. It has subtle malt character which is enhanced by a heavy hop profile that leaves a lingering bitter finish.", 
+        "ibu": "50", 
+        "id": "BExx6y", 
+        "name": "SESSION IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.3", 
+        "createDate": "2015-07-21 19:14:58", 
+        "description": "Pairs best with spicy foods.", 
+        "ibu": "68.8", 
+        "id": "yYErv8", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-07-13 17:03:07", 
+        "description": "", 
+        "ibu": "", 
+        "id": "Hiw4tR", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.3", 
+        "createDate": "2015-08-18 21:09:18", 
+        "description": "All the hop flavor and bitterness you love at a respectable ABV.", 
+        "ibu": "60", 
+        "id": "8fcib2", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2016-05-17 20:16:08", 
+        "description": "", 
+        "ibu": "", 
+        "id": "eRK95t", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2015-08-13 12:28:27", 
+        "description": "", 
+        "ibu": "", 
+        "id": "UnHwio", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2016-04-25 15:53:38", 
+        "description": "Our Session IPA flaunts bold citrus flavors with floral undertones and is perfectly balanced by a smooth malt character. This is one IPA that won\u2019t knock you off your bar stool.", 
+        "ibu": "50", 
+        "id": "KEw5p1", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-06-14 22:12:40", 
+        "description": "We made it! And to commemorate our one year anniversary we brewed this amazing session IPA. Mashed with Pale malt, Munich malt, and a respectable amount of Flaked Oats and Flaked Wheat. This session sits at 4.9% a.b.v. and is packed with so much hop flavor it's hard to believe it only has 50 IBU's. If you couldn't tell just by tasting it, we used very specific amounts of Chinook, Centennial, Citra and Mosaic hops. This is a one off beer and will not be produced again...or until we can find more Citra and Mosaic hops. Let us know if you have some and drink it while it lasts. Cheers!", 
+        "ibu": "50", 
+        "id": "UkAyfV", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-07-12 21:53:37", 
+        "description": "", 
+        "ibu": "", 
+        "id": "o8iqjw", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-10-23 19:29:17", 
+        "description": "Light golden in color and pours with a dense white head. This beer showcases an abundant tropical fruit and citrus hop aroma due to an intense dry hopping schedule using copious amounts of American hops. A balanced malt profile rounds out these accentuated hoppy flavors and light bitterness to finish with a clean, hop bursted presence. Light in body, low inalcohol and BIG in flavor make this a true session beer!", 
+        "ibu": "", 
+        "id": "wEcs8w", 
+        "name": "Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-07-18 23:13:55", 
+        "description": "The Cuban Missile Crisis, the Space Race, Baseball\u2019s Homerun Race of \u201998. Let\u2019s face it, Americans are no stranger to an arms race. Enter, craft beer. Breweries everywhere are dumping hops in by the pound and ramping up alcohol content, leaving dedicated hophead tailgaters with few choices for responsible drinking. We bring you the session-style India Pale Ale. Session-style means moderate alcohol content. This is your chance to enjoy a full flavor, aggressively hopped IPA \u2013 without melting your face off. Handcrafted with Cascade and Magnum hops, this IPA is influenced by IPA City, USA (San Diego) and perfected for tailgaters around the world. Grab this bouquet of liquid hopped glory and enjoy full flavored drinking, not sipping. (AKA Sorta IPA - 4.7% ABV, 44 IBU)", 
+        "ibu": "44", 
+        "id": "C3mzVR", 
+        "name": "Session IPA (Sorta IPA)", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-15 20:29:40", 
+        "description": "A Pale malt base with a touch of Vienna and Oat malts provide a smooth breadiness to the bold citrus flavor and aroma. Amarillo and Citra hops for both boil and dry-hop additions bring out the classic IPA punch, while the low gravity allows for multiple pints.", 
+        "ibu": "32", 
+        "id": "PQkoao", 
+        "name": "Sessions in the Abyss", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-07-27 19:40:44", 
+        "description": "", 
+        "ibu": "64", 
+        "id": "qFRkvQ", 
+        "name": "Shiva", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.2", 
+        "createDate": "2016-08-09 17:49:14", 
+        "description": "The Short Hop is a completely NEW recipe that shines a light on the hop character of an IPA but weighs in at only 5.2%. Short Hop has a nice round body with a fruity and slightly resinous hop forward character. We have added a variety of malts to create a fuller body as well as a hint of rye for complexity. Light in color with a dry, clean hop finish should make you come back for more, and the lower ABV makes it possible.", 
+        "ibu": "", 
+        "id": "545ZLD", 
+        "name": "Short Hop", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "2.6", 
+        "createDate": "2015-09-01 15:35:29", 
+        "description": "", 
+        "ibu": "", 
+        "id": "DUWh13", 
+        "name": "Simpleton", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-08-03 22:22:11", 
+        "description": "", 
+        "ibu": "", 
+        "id": "7sipDP", 
+        "name": "Single Hop Series: Horizon", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-07-07 19:35:46", 
+        "description": "", 
+        "ibu": "32", 
+        "id": "UuQsxc", 
+        "name": "Sit and Stay India Session Belgian Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2016-01-06 21:11:31", 
+        "description": "Canned beer offering coming Spring 2016 to Mad Anthony Brewing Company", 
+        "ibu": "", 
+        "id": "GDPnXL", 
+        "name": "Six to Midnight", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-18 21:50:11", 
+        "description": "", 
+        "ibu": "", 
+        "id": "lubT5z", 
+        "name": "Size 4", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-09-24 17:42:45", 
+        "description": "This India Session Ale is a duel hop beer showcasing Mosaic and Citra hops. Brewed with pale and pilsner malts, it\u2019s light bodied and golden in color. Perfect to quench your summer thirst!", 
+        "ibu": "20", 
+        "id": "rKwJsR", 
+        "name": "Skin N Bones", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-08-04 15:58:31", 
+        "description": "", 
+        "ibu": "50", 
+        "id": "36gHd2", 
+        "name": "Slick Leg", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-05-12 13:06:38", 
+        "description": "Sly Boogie Session IPA is fresh, crisp and citrusy with a balanced hoppy finish that will make your palate boogie down! Everything that you love about an India Pale Ale and you can have more than one! It's sly and that's no boogie!", 
+        "ibu": "50", 
+        "id": "X1B4pi", 
+        "name": "Sly Boogie", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "2.5", 
+        "createDate": "2015-07-30 15:04:08", 
+        "description": "", 
+        "ibu": "30", 
+        "id": "Niayrf", 
+        "name": "Small Beer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "2.6", 
+        "createDate": "2015-07-30 14:14:57", 
+        "description": "", 
+        "ibu": "34", 
+        "id": "ezgcmF", 
+        "name": "Small Beer No. 10", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "2.7", 
+        "createDate": "2015-07-30 14:15:43", 
+        "description": "", 
+        "ibu": "", 
+        "id": "HJPQvg", 
+        "name": "Small Beer No. 11", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.6", 
+        "createDate": "2015-07-30 14:16:14", 
+        "description": "", 
+        "ibu": "", 
+        "id": "td8F57", 
+        "name": "Small Beer No. 6", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "2.9", 
+        "createDate": "2015-07-30 14:17:05", 
+        "description": "", 
+        "ibu": "", 
+        "id": "Vwr3EY", 
+        "name": "Small Beer No. 7", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.3", 
+        "createDate": "2015-07-30 14:18:06", 
+        "description": "", 
+        "ibu": "", 
+        "id": "kaIfXQ", 
+        "name": "Small Beer No. 8", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "2.9", 
+        "createDate": "2015-07-30 14:29:22", 
+        "description": "An exceptionally satisfying and full bodied beer for its stature, with the same big hop hit you may have come to expect from our more muscular Pale Ales. This beer is vibrant with citrus, melon and sherbet flavours meandering to gentle bitter finish.\r\n\r\nMalts: Pale, Munich, CaraGold, Crystal, (Barley) Wheat, Oats. \r\n\r\nHops: Target, Bramling Cross, Hull Melon, Columbus.\r\n\r\nYeast:Safale US-05.", 
+        "ibu": "", 
+        "id": "P2PzfW", 
+        "name": "Small Beer No. 9", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-08-07 17:24:29", 
+        "description": "The 4th beer in our single hop Session IPA series, Hops-Huell Melon or Mandarina Bavaria.", 
+        "ibu": "", 
+        "id": "Y8702r", 
+        "name": "Small Crop #4", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-01-27 18:35:23", 
+        "description": "", 
+        "ibu": "60", 
+        "id": "JuQHEn", 
+        "name": "Smoldering Session", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.9", 
+        "createDate": "2016-03-14 17:53:42", 
+        "description": "", 
+        "ibu": "40", 
+        "id": "vt9U3I", 
+        "name": "Southern Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-06-01 13:26:55", 
+        "description": "Inspired by our small-batch pilot system, the Roots Release series honors our experimental brewing roots and invites you to sample some of our favorites. This full-flavored Session IPA splices together tropical fruit aromas with bold, fresh citrusy hops. The result is an easy drinking, balanced IPA; one you\u2019ll reach for again and again.", 
+        "ibu": "40", 
+        "id": "jS9dbC", 
+        "name": "Splice Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2016-08-30 14:34:17", 
+        "description": "This first of a series of rotating dry hop editions in this satisfyingly hoppy, drinkable session IPA.", 
+        "ibu": "", 
+        "id": "xtBx44", 
+        "name": "Spring + Summer Session IPA Nelson Sauvin", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.8", 
+        "createDate": "2015-03-18 19:05:26", 
+        "description": "Can\u2019t wait for Spring to get here? Crack open a Spring Fever Session Ale and before you know it, those winter frowns will be turned upside down!\r\nSpring Fever delivers the flavor and impact of an American IPA with the session-ability of a light beer. Catch the fever before it\u2019s gone!", 
+        "ibu": "", 
+        "id": "joq8Pv", 
+        "name": "Spring Fever Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-08-19 15:27:45", 
+        "description": "", 
+        "ibu": "", 
+        "id": "kU617Q", 
+        "name": "Starting Gate Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-09-14 22:02:59", 
+        "description": "", 
+        "ibu": "", 
+        "id": "5qzSiq", 
+        "name": "State Theatre V.I.P.A.", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.4", 
+        "createDate": "2015-04-20 15:59:47", 
+        "description": "", 
+        "ibu": "", 
+        "id": "6ID0AO", 
+        "name": "Stateside Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-11-09 16:20:03", 
+        "description": "Steady Rollin' Session IPA is inspired by the lush, vibrant landscape of the Great Lakes region, our all-hours, year-round outdoor playground. Steady Rollin's tropical fruit flavors, balance, and light body make it a perfect companion for cutting a new trail or rowing to a secluded bank with friends to kick back and watch the afternoon fade away. Steady Rollin' is brewed for those days when you can only guess what time it is based on where the sun sits in the sky.", 
+        "ibu": "50", 
+        "id": "Ojo2PW", 
+        "name": "Steady Rollin' Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-03-03 17:17:04", 
+        "description": "Out of the 90\u2019s Pacific Northwest music scene, Suicide Squeeze Records founder David Dickenson forged his own path with acts like Modest Mouse, Elliott Smith, and Pedro the Lion, forgoing standard industry protocal. Similarly, Fort George has chosen to craft beer that is often outside the beer style guidelines. This year\u2019s spring collaboration with Suicide Squeeze Records is one of those beers \u2013 a crisp session IPA with every bit of the hoppy flavor and aroma you\u2019ve come to expect from Fort George. Floral and citrusy, Suicide Squeeze IPA is a light ode to spring.\r\n\r\nVISIT SUICIDESQUEEZE.NET/FORTGEORGE TO DOWNLOAD A FREE MUSIC SAMPLER", 
+        "ibu": "", 
+        "id": "taWLT8", 
+        "name": "Suicide Squeeze IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2016-04-02 01:28:05", 
+        "description": "", 
+        "ibu": "5", 
+        "id": "Daxay6", 
+        "name": "Summit Hop Necessity", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-07-20 19:44:52", 
+        "description": "Sundial, a sessionable IPA at only 4.5% ABV, is Community Beer Co.\u2019s newest seasonal release.  When you want hops and a refreshing, crisp beer that\u2019s drinkable all day long, Sundial is the answer.  We keep the grist simple to showcase our delicious hops, and use copious amounts of Centennial, Simcoe and Amarillo hops to give a delightful hoppy aroma and flavor.  Hop bitterness is present, but dialed back with just enough to balance the malt and contribute to the refreshing nature of our new favorite summer beer!", 
+        "ibu": "35", 
+        "id": "BYXTsO", 
+        "name": "Sundial Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.9", 
+        "createDate": "2012-08-23 19:05:07", 
+        "description": "Our hoppy, refreshing session drinker. This bright golden colored brew offers aromas of tropical fruit and pine, along with juicy, citrusy blast on your palate. Finishes with a lingering dry bitterness. Peace, Love & Hoppiness!", 
+        "ibu": "60", 
+        "id": "nFesJX", 
+        "name": "Sunshine Daydream Session Ale", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-03-18 18:49:29", 
+        "description": "Super Session is designed to be a light and refreshing beer with low alcohol, yet the full hop character of a Session IPA. Go ahead, you can have more than one\u2026 Cheers!\r\nKEEP COLD \u2013 DRINK FRESH!", 
+        "ibu": "", 
+        "id": "hgRcRG", 
+        "name": "Super Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-07-31 19:55:31", 
+        "description": "Super Session #2 is designed to be a light and refreshing beer with low alcohol, yet the full hop character of a Session IPA. Go ahead, you can have more than one\u2026 Cheers!\r\nKEEP COLD \u2013 DRINK FRESH!", 
+        "ibu": "", 
+        "id": "z1oll0", 
+        "name": "Super Session IPA #2", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.1", 
+        "createDate": "2016-05-20 16:35:15", 
+        "description": "", 
+        "ibu": "", 
+        "id": "AyVOOr", 
+        "name": "Swell Rider", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-06-09 17:56:25", 
+        "description": "A hazy summer session IPA with a refreshing citrus hop flavor made for easy drinking on warm summer days. At 4.8% ABV, you can have a couple and still get the lawn mowed.", 
+        "ibu": "40", 
+        "id": "kjqXXm", 
+        "name": "Tail Lights", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-10-03 20:04:45", 
+        "description": "", 
+        "ibu": "8", 
+        "id": "NMs3YM", 
+        "name": "Teeny Bikini", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-08-05 22:52:47", 
+        "description": "", 
+        "ibu": "", 
+        "id": "vhw0Fl", 
+        "name": "Tempo", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-07-08 18:11:03", 
+        "description": "The State of Texas is now in the full possession of a beer fitting for the quality of her People. Brewed with superb Texas grown malt and American hops. Purely for the leisurely day time enjoyment that the People deserve.", 
+        "ibu": "51.8", 
+        "id": "AZi4PT", 
+        "name": "Texas Sucession IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-09-07 16:10:11", 
+        "description": "", 
+        "ibu": "", 
+        "id": "Rk7H9L", 
+        "name": "The Coachman", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "3.4", 
+        "createDate": "2016-10-01 17:06:20", 
+        "description": "", 
+        "ibu": "", 
+        "id": "5mSQ61", 
+        "name": "The Deutsche Beir", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2014-09-04 20:27:09", 
+        "description": "The little brother to our flagship DRIPA, this lower-alcohol, sessionable IPA features the same bright citrus intensity in the aroma with a lighter mouthfeel and a classic dry finish. If you like big hoppy flavors, but want to last all day, you need The Fluffer. \u201cCan't get enough of that wonderful Fluff!\u201d", 
+        "ibu": "", 
+        "id": "CV0Wwz", 
+        "name": "The Fluffer", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-04-13 14:45:07", 
+        "description": "A sessionable India Pale Ale brewed with unmalted rye; the spicy malt bill supports an array of intense hop aromatics, all engendered by a classic Pacific Northwest hop bill; brewed with Cascade, Simcoe & Amarillo hops, then heavily dry-hopped with Simcoe & Amarillo.", 
+        "ibu": "36.7", 
+        "id": "gvvN8Z", 
+        "name": "The Imposter", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.75", 
+        "createDate": "2016-09-03 01:28:45", 
+        "description": "", 
+        "ibu": "", 
+        "id": "E9mZiY", 
+        "name": "The Session", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-09-02 13:40:07", 
+        "description": "", 
+        "ibu": "", 
+        "id": "zfeZsz", 
+        "name": "Thumper", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2016-03-28 11:50:31", 
+        "description": "", 
+        "ibu": "55", 
+        "id": "Rv5DjD", 
+        "name": "Tighty Whities", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.3", 
+        "createDate": "2015-07-31 19:59:49", 
+        "description": "Session IPA with Nelson and Citra hops.", 
+        "ibu": "", 
+        "id": "bLXZuR", 
+        "name": "Time Bomb", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.4", 
+        "createDate": "2015-12-07 16:19:46", 
+        "description": "", 
+        "ibu": "55", 
+        "id": "rfhfgK", 
+        "name": "Toe Crusher", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2015-07-13 15:21:29", 
+        "description": "The heat is on. You just finished a long run in the sun. Or, you're sitting on your porch in the cool of the evening seeking respite from summer. Or, you're celebrating the Fourth with family and friends and you desire a smooth, cold, flavorful beverage that won't put you flat on your back (not yet, anyway). Enter Outer Light Brewing Company's Trail Magic IPA. Light and crisp, it tickles the tongue with flavors reminiscent of black tea, melon, and fruit. Sessionable and refreshing, this easy-drinking ale will satisfy your summer cravings. Don't get caught trailing behind. Try our latest magical offering.", 
+        "ibu": "43", 
+        "id": "wgIuea", 
+        "name": "Trail Magic Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6", 
+        "createDate": "2016-06-07 19:48:47", 
+        "description": "This brew climbs the branches of your palate to a floral hop bouquet of citrus flavor and aroma. Golden Promise Pale malts mingle with three hop varietals: earthly yet fruity bitterness of Simcoe, Mosaic's herbal grab bag of flavor, and the tropical aromas of Equinox.", 
+        "ibu": "60", 
+        "id": "8GKKAK", 
+        "name": "Treerider IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6", 
+        "createDate": "2013-08-06 11:03:06", 
+        "description": "Mountains of hops allow tropical fruit aromas to intertwine with an undertone of melon, fruit and slight citrus in our IPA offering.", 
+        "ibu": "89", 
+        "id": "1LDngl", 
+        "name": "Trhopical Illusion IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "", 
+        "createDate": "2015-07-29 00:36:54", 
+        "description": "", 
+        "ibu": "", 
+        "id": "lHThFl", 
+        "name": "Tribale Session", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.5", 
+        "createDate": "2015-07-30 14:22:04", 
+        "description": "", 
+        "ibu": "", 
+        "id": "SUdWS2", 
+        "name": "Triptych No.6 IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-08-06 21:15:05", 
+        "description": "", 
+        "ibu": "46", 
+        "id": "o5Nd9a", 
+        "name": "TRK-ISA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-12-08 17:50:24", 
+        "description": "", 
+        "ibu": "", 
+        "id": "dqpYYG", 
+        "name": "Troll Toll", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5", 
+        "createDate": "2015-07-20 17:35:30", 
+        "description": "", 
+        "ibu": "", 
+        "id": "GKa1Sl", 
+        "name": "Tush", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.2", 
+        "createDate": "2016-06-25 11:38:52", 
+        "description": "Our take on an ever-evolving classic. Good deep malt undercurrent is shaken by a slowly surging citrus wave. Lemon and sherbet notes fade to leave a refreshing, lingering bitterness.", 
+        "ibu": "35", 
+        "id": "XcbxC9", 
+        "name": "Unicorn IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.1", 
+        "createDate": "2016-05-03 17:11:58", 
+        "description": "", 
+        "ibu": "", 
+        "id": "VqseLb", 
+        "name": "Union'Hop", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "7.2", 
+        "createDate": "2016-03-11 14:13:04", 
+        "description": "Brewer Gabe Smoley\u2019s Unchained 21: Us & Them is a truly unique craft beer exploration. Gabe has deconstructed the mash of Summit's popular S\u00e1ga IPA recipe into two unique \u201cthreads\u201d to forge two distinct beers: a hoppy and intense American IPA and a complex, but subtle Session IPA. This unique brewing experience explores the two extreme flavor profiles and drinking differences you can discover in one package from one, original beer recipe. Which beer do you think is \u201cUs\u201d and which beer is \u201cThem\u201d? Which brew defines you? Offered in 6 packs that include three bottles of each brew. Also available on draught.", 
+        "ibu": "90", 
+        "id": "K4gBWu", 
+        "name": "Us & Them IPA - Unchained 21", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2015-07-31 19:47:36", 
+        "description": "Brewed with oats, spelt, and rye. Hopped with a copious amount of Mosaic hops. This beer is undeniably crushable.", 
+        "ibu": "", 
+        "id": "kON9S8", 
+        "name": "Virgins & Diamonds", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4", 
+        "createDate": "2015-07-31 19:44:25", 
+        "description": "A sessionable pale/blonde ale.", 
+        "ibu": "40", 
+        "id": "84eLIh", 
+        "name": "Walden", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.8", 
+        "createDate": "2016-09-07 16:31:10", 
+        "description": "There are a bunch of great waves here on the central coast, and we love chasing them down. We also love wrangling in our favorite hops, like the heaps of Amarillo & Citra we used to make this super sessionable IPA. The low alcohol won\u2019t hold you down while hop bursting brings on flavorful bliss.", 
+        "ibu": "45", 
+        "id": "xC0vLj", 
+        "name": "Wave Wrangler", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2014-02-28 13:40:57", 
+        "description": "Ways & Means is a session IPA brewed with rye and just the right amount of Citra and Centennial hops for pleasing bitterness. It boasts complex aromatics of citrus and tropical fruits, finishing with the typical clean, refreshing character for which our beers are known. The very first keg of this beer was served in the United States Capitol to members of the U.S. Congress Ways & Means committee. Both Democrats and Republicans found that it was a beer that all could agree upon.", 
+        "ibu": "55", 
+        "id": "dO0GNN", 
+        "name": "Ways & Means", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-06-26 18:14:18", 
+        "description": "", 
+        "ibu": "55", 
+        "id": "0mq2Jn", 
+        "name": "Weekender", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-06-08 17:13:10", 
+        "description": "We let the clean flavor of a lager collide with the classic hops of an IPA. It\u2019s obsessionable. So have another.", 
+        "ibu": "35", 
+        "id": "vbkdWN", 
+        "name": "West O Holy L", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2016-05-22 14:54:10", 
+        "description": "All the juicy hop flavor you crave with less of the intoxicating qualities of it\u2019s big brother.  What I\u2019m Having is generously dry hopped with Amarillo and Citra for a citrusy, tropical hop flavor.", 
+        "ibu": "", 
+        "id": "1QQJE7", 
+        "name": "What I'm Having", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "5.7", 
+        "createDate": "2015-07-20 20:24:06", 
+        "description": "", 
+        "ibu": "49", 
+        "id": "H99WdZ", 
+        "name": "Wheat IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.5", 
+        "createDate": "2015-08-14 22:36:23", 
+        "description": "Our flagship beer, this bright and delicious session IPA has an ABV of 4.3% and showcases the flavors and aromas of Simcoe, Amarillo, and Citra hops. The hop additions for this beer all occur post-boil--in the whirlpool, hopback, and fermentor--giving this beer a big, dank aroma but preserving its light body. The grain bill is simple: the majority being floor-malted two-row pale malt with a touch of dextrin malt and crystal malt (30\u00b0 L).", 
+        "ibu": "42", 
+        "id": "b0XyZV", 
+        "name": "Whetstoner", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2013-02-14 14:33:54", 
+        "description": "", 
+        "ibu": "", 
+        "id": "Nmgo70", 
+        "name": "White Cap", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "6.5", 
+        "createDate": "2015-07-08 18:20:15", 
+        "description": "Not your traditional IPA, this is a wheat based beer fermented with a hefeweizen yeast giving it a hazy gold appearance with a Belgian feel. Plenty of hops are added early in the boil to give it that IPA bitterness, while the Citra and Amarillo hops add a fruity, citrus aroma.", 
+        "ibu": "70", 
+        "id": "Lkw9vp", 
+        "name": "White IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.2", 
+        "createDate": "2016-06-06 14:41:11", 
+        "description": "", 
+        "ibu": "", 
+        "id": "V820q5", 
+        "name": "Wolf Pup Session IPA", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }, 
+    {
+        "abv": "4.7", 
+        "createDate": "2015-10-15 16:10:14", 
+        "description": "", 
+        "ibu": "", 
+        "id": "31fSFV", 
+        "name": "Work", 
+        "style": "Session India Pale Ale", 
+        "styleId": 164
+    }
+]
